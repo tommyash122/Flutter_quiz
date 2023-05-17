@@ -1,6 +1,6 @@
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAwMjRjMzFhODNiZWVjNDBlNDBkMjI1NmZkZjdhYjllMzcxOTBkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qpx8uccoj6dcTtzGb9/giphy.gif)
 
-# adv_basics
+# Flutter quiz
 
 A new Flutter project.
 
